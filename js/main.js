@@ -828,6 +828,198 @@ const answersDB = () => [
     c: "is coming",
     d: "coming"
   },
+  {
+    quostion: "We’re students. __________ teacher is American.",
+    a: "Our",
+    b: "Their",
+    c: "Your",
+    d: "They"
+  },
+  {
+    quostion: "Marjorie, please close __________ book.",
+    a: "your",
+    b: "you",
+    c: "my",
+    d: "you’re"
+  },
+  {
+    quostion: "It’s a hotel. __________ name is The London Hotel.",
+    a: "Its",
+    b: "His",
+    c: "Her",
+    d: "Our"
+  },
+  {
+    quostion: " They’re teachers. __________ names are Paul and Jenny.",
+    a: "Their",
+    b: "His",
+    c: "Her",
+    d: "My"
+  },
+  {
+    quostion: "Franco’s Italian, but __________ mother is Scottish.",
+    a: "his",
+    b: "her",
+    c: "she",
+    d: "their"
+  },
+  {
+    quostion: "I’m Japanese. __________ family is from Tokyo.",
+    a: "My",
+    b: "Your",
+    c: "Their",
+    d: "Her"
+  },
+  {
+    quostion: "Are you _______ for a taxi?",
+    a: "waiting",
+    b: "driving",
+    c: "seeing",
+    d: "hoping"
+  },
+  {
+    quostion: "Can you __________ me with this question?",
+    a: "help",
+    b: "talk",
+    c: "tell",
+    d: "say"
+  },
+  {
+    quostion: "Don’t move! I want to __________ your photo.",
+    a: "take", b: "draw", c: "paint", d: "make"
+  },
+  {
+    quostion: " It’s cold but some people are __________ in the sea.",
+    a: "swimming", b: "waiting", c: "driving", d: "diving"
+  },
+  {
+    quostion: "Ellen can’t __________ her purse.",
+    a: "find", b: "watch", c: "look", d: "see"
+  },
+  {
+    quostion: "Let’s __________ for a coffee after the class.",
+    a: "do", b: "wait", c: "meet", d: "make"
+  },
+  {
+    quostion: "I usually __________ my children a story before they go to sleep.",
+    a: "play", b: "tell", c: "remember", d: "ask"
+  },
+  {
+    quostion: "He __________ to the gym at the weekend.",
+    a: "goes", b: "rides", c: "plays", d: "stays"
+  },
+  {
+    quostion: "Can you __________ a noise downstairs?",
+    a: "hear", b: "listen", c: "take", d: "view"
+  },
+  {
+    quostion: " If he wins this match, he'll be the world…",
+    a: "Champion", b: "Man", c: "Fighter", d: "Coach"
+  },
+  {
+    quostion: "I'm thinking of joining a …  to get more exercise.",
+    a: "Course", b: "Club", c: "Session", d: "Gym"
+  },
+  {
+    quostion: " Our basketball … said that I can play on Saturday!",
+    a: "Coach", b: "Teacher", c: "Rival", d: "Friend"
+  },
+  {
+    quostion: "The … blew his whistle and the game started.",
+    a: "Referee", b: "Coach", c: "Teacher", d: "Rival"
+  },
+  {
+    quostion: "Which team do you… ?",
+    a: "Support", b: "Provide", c: "Play", d: "Invite"
+  },
+  {
+    quostion: "My sister _____ play tennis now.",
+    a: "will can", b: "can to", c: "can", d: "could"
+  },
+  {
+    quostion: "I _____ walk when I was less than a year old.",
+    a: "could", b: "can", c: " have can", d: "Will be able"
+  },
+  {
+    quostion: "...... you speak any foreign language?",
+    a: "Can", b: "Will", c: "May", d: "Might"
+  },
+  {
+    quostion: "You look tired. You....  go to bed.",
+    a: "Should", b: "Must", c: "Would", d: "Could"
+  },
+  {
+    quostion: "Take an umbrella. It .... rain later.",
+    a: "Might", b: "Would", c: "Should", d: "Can"
+  },
+  {
+    quostion: "Hello, ... I speak to Tom, please?",
+    a: "May", b: "Would", c: "Shall", d: "Will"
+  },
+  {
+    quostion: "Drivers.... stop when the traffic lights are red.",
+    a: "Must", b: "Could", c: "May", d: "Should"
+  },
+  {
+    quostion: "You... take your umbrella. It is not raining.",
+    a: "Needn't", b: "Couldn't", c: "Mustn't", d: "Shouldn't"
+  },
+  {
+    quostion: "There are plenty of tomatoes in the fridge. You ... buy any.",
+    a: "Needn't", b: "Mustn't", c: "Shouldn't", d: "May not"
+  },
+  {
+    quostion: "This is a hospital. You....  smoke here.",
+    a: "Mustn't", b: "Needn't", c: "May not", d: "Don't have to"
+  },
+  {
+    quostion: "It's a secret. You ... tell anybody about it!",
+    a: "mustn't", b: "couldn't", c: "shouldn't", d: "needn't"
+  },
+  {
+    quostion: "She ... swim and run very well.",
+    a: "can", b: "is able to", c: "may", d: "must"
+  },
+  {
+    quostion: "....you help me with my homework?",
+    a: "Can", b: "Are", c: "May", d: "Need"
+  },
+  {
+    quostion: "....you post this letter for me?",
+    a: "Will", b: "Shall", c: "May", d: "Are"
+  },
+  {
+    quostion: "Which is the correct answer",
+    a: "He often reads a book", b: "He reads a book now", c: "He reads often books", d: "He is often reading books"
+  },
+  {
+    quostion: "Which is the correct answer",
+    a: " Every afternoon Mum makes a cup of tea", b: "Listen! Mum makes a cup of tea.", c: "Mum is always makes a cup of tea.", d: "Listen! Mum is always makes a cup of tea."
+  },
+  {
+    quostion: "What are typical signal words for the Simple Present?",
+    a: "sometimes", b: "at the moment", c: "now", d: "yesterday"
+  },
+  {
+    quostion: "What are typical signal words for the Present Continuous?",
+    a: "at the moment", b: "often", c: "sometimes", d: "every day"
+  },
+  {
+    quostion: "Which sentence is in the Simple Present?",
+    a: "Do you like tea?", b: "She dropped a glass of milk", c: "She is sitting on a chair", d: "He's chatting"
+  },
+  {
+    quostion: "Which sentence is in the Present Continuous?",
+    a: "Is the cat playing in the garden?", b: "He does not make the beds", c: "I often take photos", d: "We have a new car."
+  },
+  {
+    quostion: "Define the definition of the word 'hardware'.",
+    a: "tools, machinery, and other durable equipment.", b: "the programs and other operating information used by a computer.", c: "bring (something) into existence.", d: "machine that processes something."
+  },
+  {
+    quostion: " What is a computer?",
+    a: "An electronic device that manipulates information or data", b: " A thing used to access the internet", c: "A useless piece of technology", d: "A laptop"
+  },
 ];
 
 answersDB().forEach((item, index) => {
